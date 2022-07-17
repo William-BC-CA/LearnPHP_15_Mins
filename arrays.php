@@ -12,7 +12,7 @@
             $people = array("Alice", "Bob", "Catherine");
 
             // print_r($people); // To Print Array
-            echo $people[2]; // Get Catherine
+            // echo $people[2]; // Get Catherine
 
             //! LOOP: Output each name
             foreach($people as $person){
