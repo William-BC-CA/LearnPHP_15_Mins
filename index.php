@@ -19,6 +19,24 @@ Hello, World!
     // echo $myvar;
     // echo $sum;
     echo "Hello, " . $name;
+
+    //! LOGICAL OPERATORS
+    // $x and $y
+    // $x or $y
+    // $x == $y
+    // $x !== $y
+
+
+    //! Conditionals
+    $loggedIn = true;
+    
+    if ($loggedIn == true){
+        echo "You are logged in";
+    }
+    else{
+        echo "Please log in!";
+    }
+
 ?>
 </body>
 </html>
