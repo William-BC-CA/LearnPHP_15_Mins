@@ -8,7 +8,9 @@ Hello, World!
 
 <?php
 
-    echo "Hello World!";
+    $myvar = "This is my variable";
+    // echo "Hello World!";
+    echo $myvar;
 ?>
 </body>
 </html>
