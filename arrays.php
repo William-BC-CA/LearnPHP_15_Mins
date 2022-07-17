@@ -11,7 +11,8 @@
 
             $people = array("Alice", "Bob", "Catherine");
 
-            print_r($people); // To Print Array
+            // print_r($people); // To Print Array
+            echo $people[2];
 
         ?>
 
