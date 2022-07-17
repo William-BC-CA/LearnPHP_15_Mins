@@ -11,7 +11,8 @@ Hello, World!
     $myvar = "This is my variable";
     $number = 5;
     $number2 = 3;
-    $sum = $number + $number2;
+    // $sum = $number + $number2;
+    $sum = $myvar + $number2;
 
     // echo "Hello World!";
     // echo $myvar;
